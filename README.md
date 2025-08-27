@@ -1,8 +1,6 @@
 # employee-performance-dashboard
 An interactive dashboard built to analyze and visualize key HR metrics, transforming raw employee data into strategic insights for better decision-making.  
 
-![Dashboard Screenshot](Screenshot%202025-08-27%20082027.png)  
-
 ## 📊 Dashboard Features  
 
 - **Overall Performance Snapshot:** High-level stats filtered by Department, Gender, and Years of Service.  
